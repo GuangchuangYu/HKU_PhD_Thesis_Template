@@ -36,6 +36,11 @@ The folder "imageFiles" contains all the image files for the thesis.
 
 The title of the thesis and the Chinese and English names of the student are contained in the files "titlePage.tex" and "abstract.tex".
 
+Line 58 of the file "main.tex" changes the Chinese font.
+Line 124 of the file "main.tex" changes line spacing.
+
+The file "main.tex" contains further explanations and comments.
+
 
 
 
