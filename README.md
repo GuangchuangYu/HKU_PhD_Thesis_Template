@@ -7,6 +7,7 @@ The Guide for MPhil and PhD Students for Preparing and Submitting Your Thesis
 is available at http://www.gradsch.hku.hk/gradsch/f/page/510/preparing-thesis2.pdf.
 
 The structure of the document is:
+
 1. Abstract
 2. Title page of thesis
 3. Dedication
